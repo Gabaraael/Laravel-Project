@@ -1,0 +1,1 @@
+Verificar o php.ini se o PDO do banco que está sendo utilizado está ativado/descomentado.
