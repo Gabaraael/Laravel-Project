@@ -1,7 +1,7 @@
 create table Dinosaur (
-	id integer not null primary key,
+	id serial not null primary key,
 	name varchar(255) null,
 	idade integer null,
 	velocidade float null,
-	altura float null	
+	altura float null
 )
